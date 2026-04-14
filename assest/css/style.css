@@ -2034,7 +2034,7 @@ header {
   content: '';
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.92); /* darkness control */
+  background: rgba(0, 0, 0, 0.88); /* darkness control */
   z-index: -1;
 }
 .footer-logo {
